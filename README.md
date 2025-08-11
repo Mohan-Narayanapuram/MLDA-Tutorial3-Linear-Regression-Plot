@@ -23,3 +23,7 @@ In this tutorial, we apply Linear Regression on the preprocessed *Medical Insura
 pip install -r requirements.txt
 jupyter notebook Tutorial-3.ipynb
 ```
+
+## Credits
+Dataset sourced from: [GitHub – stedy/Machine-Learning-with-R-datasets](https://github.com/stedy/Machine-Learning-with-R-datasets)  
+Original dataset creator: *Stedy* (Machine Learning with R book resources)
